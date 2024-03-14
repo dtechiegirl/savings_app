@@ -1,8 +1,12 @@
- savings_app
+Kowope- A savings app
 Built a saving app with flutter
 
-HOME PAGE
-![home](https://github.com/dtechiegirl/savings_app/assets/79475136/dd7a7291-ff6a-4e69-b0b7-fd5fcc4696b7)#
+HOME PAGES
+![screen1](https://github.com/dtechiegirl/savings_app/assets/79475136/46cf7dd3-817d-4f30-bbe4-b32da7748ad7)
+![home2](https://github.com/dtechiegirl/savings_app/assets/79475136/62edc185-4933-491a-a3d4-2f922838636e)
+
+
+
 SAVINGS PAGE
 ![savings](https://github.com/dtechiegirl/savings_app/assets/79475136/1d0c73be-c649-47cd-aef5-c185dc098cf6)
 QUICK SAVE PAGE
